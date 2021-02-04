@@ -5,7 +5,7 @@ Atuando como pesquisador na faculdade UNICARIOCA no setor de Iniciação Cientí
 
 Contato: <br>
 fabrizzio@outlook.com <br>
-https://www.linkedin.com/in/fabrizzio-montanes/ <br>
+https://www.linkedin.com/in/fabrizzio-montanes/ <br> <br>
 ![Fabrizzio Montanes GitHub status](https://github-readme-stats.vercel.app/api?username=FabrizzioMontanes&show_icons=true&theme=dark)
 
 <!--
