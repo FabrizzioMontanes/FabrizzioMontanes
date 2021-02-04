@@ -1,6 +1,6 @@
 <b> Olá, sejam vem vindos 👋</b>
 
-Meu nome é Fabrizzio, estou cursando o 4º período de Ciências da Computação.
+Meu nome é Fabrizzio, estou cursando o 4º período de Ciências da Computação. <br>
 Atuando como pesquisador na faculdade UNICARIOCA no setor de Iniciação Científica.
 
 Contato: <br>
