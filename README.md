@@ -3,7 +3,7 @@ Olá, sejam vem vindos 👋
 Meu nome é Fabrizzio, estou cursando o 4º período de Ciências da Computação.
 Atuando como pesquisador na faculdade UNICARIOCA no setor de Iniciação Científica.
 
-Contato:
+Contato: <br>
 fabrizzio@outlook.com <br>
 https://www.linkedin.com/in/fabrizzio-montanes/
 
