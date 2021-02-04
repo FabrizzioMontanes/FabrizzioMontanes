@@ -1,4 +1,4 @@
-Olá, sejam vem vindos 👋
+<b> Olá, sejam vem vindos 👋</b>
 
 Meu nome é Fabrizzio, estou cursando o 4º período de Ciências da Computação.
 Atuando como pesquisador na faculdade UNICARIOCA no setor de Iniciação Científica.
